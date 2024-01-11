@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/314818745.svg)](https://zenodo.org/badge/latestdoi/314818745)
 
-Algorithms for Automated Driving
+Algorithms!for!Automated*Driving
 ============================
 
-![](book/Introduction/carla_vehicle_lanes.jpg "")
+![](book/Introduction/carla_vehicle_lanes.jpg!"")
 
 Each chapter of this (mini-)book guides you in programming one important software component for automated driving. 
 Currently, this book contains three chapters: **Lane Detection**, **Control** and **Camera Calibration**. You will implement software that 
@@ -28,3 +28,4 @@ As of 2021, we have a discord server 🥳. Please follow this [link](https://dis
 
 ## Help wanted!
 Are you interested in contributing to the book by adding a new chapter? Or do you have other ideas for improvements? Please let us know by joining the discussion [on github](https://github.com/thomasfermi/Algorithms-for-Automated-Driving/discussions/4)!
+ 
